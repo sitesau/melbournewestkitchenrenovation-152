@@ -1,0 +1,22 @@
+{
+  "wheel_id": 975,
+  "structure": "umbrella",
+  "slug": "melbournewestkitchenrenovation-152",
+  "project": "kitchen-renovations-melbourne-west-materials-compared-59dbe070f",
+  "parent_t1_ref": "melbournewestkitchenrenovation-011",
+  "node_role": "buffer",
+  "money_target": "melbournewestkitchenrenovation.com.au",
+  "primary_kw": "kitchen renovations melbourne west materials compared",
+  "intended_url": "https://sitesau.github.io/melbournewestkitchenrenovation-152/",
+  "tier": "T2",
+  "writeback_nonce": "33a4ee7c4290b99b",
+  "links": [
+    {
+      "target_url": "https://sites-e470-1.web.app/kitchen-renovations-melbourne-west-011/",
+      "anchor": "https://sites-e470-1.web.app/kitchen-renovations-melbourne-west-011/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
